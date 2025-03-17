@@ -190,6 +190,7 @@ _TEXT_GENERATION_EXAMPLE_MODELS = {
     "StableLmForCausalLM": _HfExamplesInfo("stabilityai/stablelm-3b-4e1t"),
     "Starcoder2ForCausalLM": _HfExamplesInfo("bigcode/starcoder2-3b"),
     "SolarForCausalLM": _HfExamplesInfo("upstage/solar-pro-preview-instruct"),
+    "TrillionForCausalLM": _HfExamplesInfo("trillionlabs/Trillion-7B-preview"),
     "TeleChat2ForCausalLM": _HfExamplesInfo("Tele-AI/TeleChat2-3B",
                                             trust_remote_code=True),
     "XverseForCausalLM": _HfExamplesInfo("xverse/XVERSE-7B-Chat",

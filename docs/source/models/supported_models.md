@@ -467,6 +467,11 @@ See [this page](#generative-models) for more information on how to use generativ
   * `upstage/solar-pro-preview-instruct`, etc.
   * ✅︎
   * ✅︎
+- * `TrillionForCausalLM`
+  * Trillion
+  * `trillionlabs/Trillion-7B-preview`
+  * ✅︎
+  * ✅︎
 - * `TeleChat2ForCausalLM`
   * TeleChat2
   * `Tele-AI/TeleChat2-3B`, `Tele-AI/TeleChat2-7B`, `Tele-AI/TeleChat2-35B`, etc.
